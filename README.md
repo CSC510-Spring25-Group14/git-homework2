@@ -10,9 +10,13 @@ Group 14 CSC510 HW2
 ```
 
 ##  Image
-```md
-![Project Screenshot](path/to/your/image.png)
-```
+
+Screenshot - 01
+![Main Level](/Main%20Level%20-%20Watermark.png)
+
+Screenshot - 02
+![Remote Level](/Remote%20Level%20-%20Watermark.png)
+
 
 ## Code Example
 
