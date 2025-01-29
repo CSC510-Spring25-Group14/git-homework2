@@ -36,9 +36,9 @@ git push origin YOUR_BRANCH
 ## ✅ Task List  
 
 
-- [ ] Task 1: Complete Git Tutorial 
-- [ ] Task 2: Add Screenshots to `README.md`  
-- [ ] Task 3: Modify `.html` File  
+- [x] Task 1: Complete Git Tutorial 
+- [x] Task 2: Add Screenshots to `README.md`  
+- [x] Task 3: Modify `.html` File  
 - [ ] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
 
