@@ -20,6 +20,8 @@ Screenshot - 01
 Screenshot - 02
 ![Remote Level](/Remote%20Level%20-%20Watermark.png)
 
+![Screenshot 1](./git-tutorial-screenshot-1-wm.jpg)
+![Screenshot 2](./git-tutorial-screenshot-2-wm.jpg)
 
 ## Code Example
 
@@ -44,9 +46,9 @@ git push origin YOUR_BRANCH
 ## ✅ Task List  
 
 
-- ✅ Task 1: Complete Git Tutorial 
-- ✅ Task 2: Add Screenshots to `README.md`  
-- ✅ Task 3: Modify `.html` File  
+- [x] Task 1: Complete Git Tutorial 
+- [x] Task 2: Add Screenshots to `README.md`  
+- [x] Task 3: Modify `.html` File  
 - [ ] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
 
