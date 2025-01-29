@@ -10,9 +10,8 @@ Group 14 CSC510 HW2
 ```
 
 ##  Image
-```md
-![Project Screenshot](path/to/your/image.png)
-```
+![Screenshot 1](./git-tutorial-screenshot-1-wm.jpg)
+![Screenshot 2](./git-tutorial-screenshot-2-wm.jpg)
 
 ## Code Example
 
