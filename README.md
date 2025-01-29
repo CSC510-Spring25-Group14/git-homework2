@@ -11,7 +11,7 @@ Group 14 CSC510 HW2
 
 ##  Image
 
-![1 (1)](https://github.com/user-attachments/assets/52fbe1c4-3538-4b7b-8e28-93da93a69765)
+![1 (1)](./nghosha-screenshot-1.jpg)
 ![2 (1)](https://github.com/user-attachments/assets/d7909d52-174e-4b99-b4a2-d69c182bfe9a)
 
 Screenshot - 01
@@ -46,11 +46,11 @@ git push origin YOUR_BRANCH
 ## ✅ Task List  
 
 
-- [x] Task 1: Complete Git Tutorial 
+- [X] Task 1: Complete Git Tutorial 
 - [x] Task 2: Add Screenshots to `README.md`  
 - [x] Task 3: Modify `.html` File  
-- [ ] Task 4: Merge latest changes  
-- [ ] Task 5: Review pull requests 
+- [x] Task 4: Merge latest changes  
+- [x] Task 5: Review pull requests 
 
 
 ```sh
