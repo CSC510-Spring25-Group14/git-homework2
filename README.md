@@ -10,9 +10,11 @@ Group 14 CSC510 HW2
 ```
 
 ##  Image
-```md
-![Project Screenshot](path/to/your/image.png)
-```
+
+![1 (1)](https://github.com/user-attachments/assets/52fbe1c4-3538-4b7b-8e28-93da93a69765)
+![2 (1)](https://github.com/user-attachments/assets/d7909d52-174e-4b99-b4a2-d69c182bfe9a)
+
+
 
 ## Code Example
 
